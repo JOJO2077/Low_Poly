@@ -12,6 +12,7 @@
 在线演示: http://www.whatled.com/sz/
 
 可参考:
+http://somestuff.ru
 https://en.wikipedia.org/wiki/Delaunay_triangulation
 https://www.zhihu.com/question/29856775/answer/57668656
 https://github.com/Ovilia/Polyvia
